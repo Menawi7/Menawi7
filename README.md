@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### PhD Researcher · Industrial Engineer · Trader & Algorithmic Trading Developer
+### PhD Researcher - Industrial Engineer - Trader & Algorithmic Trading Developer
 
 **I enjoy building intelligent systems that turn complex problems into practical decisions.**
 
