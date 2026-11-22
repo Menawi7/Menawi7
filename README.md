@@ -39,7 +39,7 @@ My PhD research explores how autonomous agents interact and coordinate. I'm espe
 </td>
 <td width="50%" valign="top">
 
-**📈 Dear Bruce | Algorithmic Trading**
+**📈 Algorithmic Trading**
 
 Dear Bruce is my personal trading research and development project. I use it to explore systematic strategies, build backtesting tools and evaluate ideas with a focus on execution and risk management.
 
